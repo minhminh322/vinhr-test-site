@@ -1,0 +1,308 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AccountSasPermissions	Test-Site/app/src/connectors/storage.py	/^from azure.storage.blob import BlobServiceClient, generate_account_sas, ResourceTypes, AccountSasPermissions, BlobClient$/;"	i
+BlobClient	Test-Site/app/src/connectors/storage.py	/^from azure.storage.blob import BlobServiceClient, generate_account_sas, ResourceTypes, AccountSasPermissions, BlobClient$/;"	i
+BlobServiceClient	Test-Site/app/src/connectors/storage.py	/^from azure.storage.blob import BlobServiceClient, generate_account_sas, ResourceTypes, AccountSasPermissions, BlobClient$/;"	i
+DATA	Test-Site/app/app.py	/^import DATA$/;"	i
+DATA	Test-Site/app/apps_list/dataset_model_list.py	/^import DATA$/;"	i
+DATA	Test-Site/app/apps_list/model_ranking.py	/^import DATA$/;"	i
+DATA	Test-Site/app/apps_list/model_test.py	/^import DATA$/;"	i
+DATA	Test-Site/app/src/helpers.py	/^import DATA$/;"	i
+DATA_FILENAME	Test-Site/app/config.py	/^DATA_FILENAME = 'W_012 191024 14_39_30.csv'$/;"	v
+DATA_FOLDER	Test-Site/app/config.py	/^DATA_FOLDER = Path('.\/static')$/;"	v
+DB	Test-Site/app/src/connectors/cosmos.py	/^DB = get_database(connect_string,'testsite')$/;"	v
+Input	Test-Site/app/app.py	/^from dash.dependencies import Input, Output, State$/;"	i
+Input	Test-Site/app/apps_list/dataset_model_list.py	/^from dash.dependencies import Input, Output, State$/;"	i
+Input	Test-Site/app/apps_list/help.py	/^from dash.dependencies import Input, Output, State$/;"	i
+Input	Test-Site/app/apps_list/home.py	/^from dash.dependencies import Input, Output, State$/;"	i
+Input	Test-Site/app/apps_list/model_ranking.py	/^from dash.dependencies import Input, Output, State$/;"	i
+Input	Test-Site/app/apps_list/model_test.py	/^from dash.dependencies import Input, Output, State$/;"	i
+MongoClient	Test-Site/app/src/connectors/cosmos.py	/^from pymongo import MongoClient$/;"	i
+OrderedDict	Test-Site/app/apps_list/dataset_model_list.py	/^from collections import OrderedDict$/;"	i
+OrderedDict	Test-Site/app/apps_list/model_ranking.py	/^from collections import OrderedDict$/;"	i
+Output	Test-Site/app/app.py	/^from dash.dependencies import Input, Output, State$/;"	i
+Output	Test-Site/app/apps_list/dataset_model_list.py	/^from dash.dependencies import Input, Output, State$/;"	i
+Output	Test-Site/app/apps_list/help.py	/^from dash.dependencies import Input, Output, State$/;"	i
+Output	Test-Site/app/apps_list/home.py	/^from dash.dependencies import Input, Output, State$/;"	i
+Output	Test-Site/app/apps_list/model_ranking.py	/^from dash.dependencies import Input, Output, State$/;"	i
+Output	Test-Site/app/apps_list/model_test.py	/^from dash.dependencies import Input, Output, State$/;"	i
+PLOTLY_LOGO	Test-Site/app/src/utils/navbar.py	/^PLOTLY_LOGO = "https:\/\/images.plot.ly\/logo\/new-branding\/plotly-logomark.png"$/;"	v
+PREDICT_FILENAME	Test-Site/app/config.py	/^PREDICT_FILENAME = '...'$/;"	v
+Path	Test-Site/app/DATA.py	/^from pathlib import Path$/;"	i
+Path	Test-Site/app/src/imports.py	/^from pathlib import Path$/;"	i
+PreventUpdate	Test-Site/app/app.py	/^from dash.exceptions import PreventUpdate$/;"	i
+PreventUpdate	Test-Site/app/apps_list/dataset_model_list.py	/^from dash.exceptions import PreventUpdate$/;"	i
+PreventUpdate	Test-Site/app/apps_list/model_test.py	/^from dash.exceptions import PreventUpdate$/;"	i
+ResourceTypes	Test-Site/app/src/connectors/storage.py	/^from azure.storage.blob import BlobServiceClient, generate_account_sas, ResourceTypes, AccountSasPermissions, BlobClient$/;"	i
+State	Test-Site/app/app.py	/^from dash.dependencies import Input, Output, State$/;"	i
+State	Test-Site/app/apps_list/dataset_model_list.py	/^from dash.dependencies import Input, Output, State$/;"	i
+State	Test-Site/app/apps_list/help.py	/^from dash.dependencies import Input, Output, State$/;"	i
+State	Test-Site/app/apps_list/home.py	/^from dash.dependencies import Input, Output, State$/;"	i
+State	Test-Site/app/apps_list/model_ranking.py	/^from dash.dependencies import Input, Output, State$/;"	i
+State	Test-Site/app/apps_list/model_test.py	/^from dash.dependencies import Input, Output, State$/;"	i
+StringIO	Test-Site/app/src/connectors/storage.py	/^from io import StringIO$/;"	i
+VIDEO_FILENAME	Test-Site/app/config.py	/^VIDEO_FILENAME = '20191024_143935.MOV'$/;"	v
+align	Test-Site/app/src/utils/navbar.py	/^                align="center",$/;"	v
+app	Test-Site/app/app.py	/^from appnha import app, server$/;"	i
+app	Test-Site/app/appnha.py	/^app = dash.Dash(__name__, external_stylesheets=external_stylesheets)$/;"	v
+app	Test-Site/app/apps_list/dataset_model_list.py	/^from appnha import app$/;"	i
+app	Test-Site/app/apps_list/help.py	/^from appnha import app$/;"	i
+app	Test-Site/app/apps_list/home.py	/^from appnha import app$/;"	i
+app	Test-Site/app/apps_list/model_ranking.py	/^from appnha import app$/;"	i
+app	Test-Site/app/apps_list/model_test.py	/^from appnha import app$/;"	i
+attribute_cards	Test-Site/app/apps_list/model_test.py	/^attribute_cards = dbc.CardDeck($/;"	v
+azure_client	Test-Site/app/src/connectors/storage.py	/^def azure_client():$/;"	f
+b	Test-Site/app/apps_list/model_test.py	/^            b=0,$/;"	v
+barmode	Test-Site/app/apps_list/model_test.py	/^        barmode='stack',$/;"	v
+centered	Test-Site/app/apps_list/dataset_model_list.py	/^            centered=True,$/;"	v
+check_aval	Test-Site/app/apps_list/dataset_model_list.py	/^check_aval = html.Div([$/;"	v
+choose_dataset_from_list	Test-Site/app/apps_list/model_test.py	/^def choose_dataset_from_list(data_json):$/;"	f
+choose_dataset_from_list	Test-Site/app/apps_list/model_test.py	/^def choose_dataset_from_list(data_json, model_json):$/;"	f
+choose_model_from_list	Test-Site/app/apps_list/model_test.py	/^def choose_model_from_list(model_json):$/;"	f
+className	Test-Site/app/apps_list/dataset_model_list.py	/^        className="test-button")$/;"	v
+className	Test-Site/app/src/utils/navbar.py	/^    className='nav-bar'$/;"	v
+color	Test-Site/app/apps_list/dataset_model_list.py	/^        color="success",$/;"	v
+color	Test-Site/app/src/utils/navbar.py	/^    color="dark",$/;"	v
+columns	Test-Site/app/apps_list/dataset_model_list.py	/^                        columns=[{'id': c, 'name': c} for c in dataset_df.columns],$/;"	v
+columns	Test-Site/app/apps_list/dataset_model_list.py	/^                        columns=[{'id': c, 'name': c} for c in model_df.columns],$/;"	v
+columns	Test-Site/app/apps_list/model_ranking.py	/^                        columns=([{'id': c, 'name': c, "hideable": True} for c in model_df.columns]),$/;"	v
+columns	Test-Site/app/apps_list/model_ranking.py	/^    columns=[{'id':'rank','name': 'Rank'}],$/;"	v
+com	Test-Site/app/apps_list/model_test.py	/^import dash_player as player # https:\/\/github.com\/plotly\/dash-player$/;"	i
+config	Test-Site/app/apps_list/model_test.py	/^                    config={$/;"	v
+controls	Test-Site/app/apps_list/model_test.py	/^                        controls=True,$/;"	v
+cosmos	Test-Site/app/DATA.py	/^from src.connectors import cosmos$/;"	i
+cosmos	Test-Site/app/apps_list/dataset_model_list.py	/^from src.connectors import cosmos$/;"	i
+cosmos	Test-Site/app/apps_list/dataset_model_list.py	/^from src.connectors import cosmos, storage$/;"	i
+cosmos	Test-Site/app/apps_list/model_ranking.py	/^from src.connectors import cosmos$/;"	i
+cosmos	Test-Site/app/apps_list/model_test.py	/^from src.connectors import cosmos, storage$/;"	i
+ct2ctts	Test-Site/app/apps_list/model_test.py	/^from src.helpers import ct2ctts, find_near_time_row, segment$/;"	i
+ct2ctts	Test-Site/app/src/helpers.py	/^def ct2ctts(ct, time_str):$/;"	f
+ct2ctts	Test-Site/app/src/progress_bar.py	/^from src.helpers import ct2ctts, find_near_time_row, segment$/;"	i
+dark	Test-Site/app/src/utils/navbar.py	/^    dark=True,$/;"	v
+dash	Test-Site/app/appnha.py	/^import dash$/;"	i
+dash	Test-Site/app/apps_list/dataset_model_list.py	/^import dash$/;"	i
+dash	Test-Site/app/apps_list/help.py	/^import dash$/;"	i
+dash	Test-Site/app/apps_list/home.py	/^import dash$/;"	i
+dash	Test-Site/app/apps_list/model_ranking.py	/^import dash$/;"	i
+dash	Test-Site/app/apps_list/model_test.py	/^import dash$/;"	i
+dash	Test-Site/app/apps_list/model_test.py	/^import dash_player as player # https:\/\/github.com\/plotly\/dash-player$/;"	i
+dash_table	Test-Site/app/apps_list/dataset_model_list.py	/^import dash_table$/;"	i
+dash_table	Test-Site/app/apps_list/model_ranking.py	/^import dash_table$/;"	i
+data	Test-Site/app/apps_list/dataset_model_list.py	/^                        data=dataset_df.to_dict('records'),$/;"	v
+data	Test-Site/app/apps_list/dataset_model_list.py	/^                        data=model_df.to_dict('records'),$/;"	v
+data	Test-Site/app/apps_list/model_ranking.py	/^                        data=model_df.to_dict('records'),$/;"	v
+data	Test-Site/app/apps_list/model_ranking.py	/^    data=[{'rank':i} for i in range(1,4)],$/;"	v
+dataset_card	Test-Site/app/apps_list/model_test.py	/^dataset_card = [$/;"	v
+dataset_df	Test-Site/app/apps_list/dataset_model_list.py	/^dataset_df = cosmos.get_table(DATA.DB, 'dataset_table')$/;"	v
+dataset_df	Test-Site/app/apps_list/dataset_model_list.py	/^dataset_df = dataset_df.sort_values('_id')$/;"	v
+dataset_model_list	Test-Site/app/app.py	/^from apps_list import home, model_test, model_ranking, dataset_model_list, help$/;"	i
+dataset_model_list	Test-Site/app/apps_list/model_test.py	/^from apps_list import dataset_model_list$/;"	i
+datefmt	Test-Site/app/src/imports.py	/^                    datefmt='%m-%d %H:%M',$/;"	v
+datetime	Test-Site/app/DATA.py	/^from datetime import datetime, timedelta$/;"	i
+datetime	Test-Site/app/apps_list/dataset_model_list.py	/^from datetime import datetime$/;"	i
+datetime	Test-Site/app/src/connectors/storage.py	/^from datetime import datetime, timedelta$/;"	i
+datetime	Test-Site/app/src/helpers.py	/^from datetime import datetime, timedelta$/;"	i
+dbc	Test-Site/app/app.py	/^import dash_bootstrap_components as dbc$/;"	i
+dbc	Test-Site/app/appnha.py	/^import dash_bootstrap_components as dbc$/;"	i
+dbc	Test-Site/app/apps_list/dataset_model_list.py	/^import dash_bootstrap_components as dbc$/;"	i
+dbc	Test-Site/app/apps_list/help.py	/^import dash_bootstrap_components as dbc$/;"	i
+dbc	Test-Site/app/apps_list/home.py	/^import dash_bootstrap_components as dbc$/;"	i
+dbc	Test-Site/app/apps_list/model_ranking.py	/^import dash_bootstrap_components as dbc$/;"	i
+dbc	Test-Site/app/apps_list/model_test.py	/^import dash_bootstrap_components as dbc$/;"	i
+dbc	Test-Site/app/src/utils/navbar.py	/^import dash_bootstrap_components as dbc$/;"	i
+dcc	Test-Site/app/app.py	/^import dash_core_components as dcc$/;"	i
+dcc	Test-Site/app/apps_list/dataset_model_list.py	/^import dash_core_components as dcc$/;"	i
+dcc	Test-Site/app/apps_list/help.py	/^import dash_core_components as dcc$/;"	i
+dcc	Test-Site/app/apps_list/home.py	/^import dash_core_components as dcc$/;"	i
+dcc	Test-Site/app/apps_list/model_ranking.py	/^import dash_core_components as dcc$/;"	i
+dcc	Test-Site/app/apps_list/model_test.py	/^import dash_core_components as dcc$/;"	i
+df_label_map	Test-Site/app/DATA.py	/^df_label_map = pd.read_csv((DATA_FOLDER\/'label_map.csv').str())$/;"	v
+disabled	Test-Site/app/apps_list/dataset_model_list.py	/^        disabled='True', $/;"	v
+display_history	Test-Site/app/apps_list/dataset_model_list.py	/^def display_history(data_queue):$/;"	f
+display_page	Test-Site/app/app.py	/^def display_page(pathname):$/;"	f
+download_blob_to_folder	Test-Site/app/src/connectors/storage.py	/^def download_blob_to_folder(client, container_name, blob_name):$/;"	f
+editable	Test-Site/app/apps_list/dataset_model_list.py	/^                        editable=True,$/;"	v
+external_stylesheets	Test-Site/app/appnha.py	/^external_stylesheets = ['https:\/\/codepen.io\/chriddyp\/pen\/bWLwgP.css', dbc.themes.BOOTSTRAP ]$/;"	v
+figure	Test-Site/app/apps_list/model_test.py	/^                    figure = go.Figure(data=[], layout=single_graph_layout),$/;"	v
+filemode	Test-Site/app/src/imports.py	/^                    filemode='w')$/;"	v
+filename	Test-Site/app/src/imports.py	/^                    filename='app.log',$/;"	v
+filter_action	Test-Site/app/apps_list/model_ranking.py	/^                        filter_action="native",$/;"	v
+find_near_time_row	Test-Site/app/apps_list/model_test.py	/^from src.helpers import ct2ctts, find_near_time_row, segment$/;"	i
+find_near_time_row	Test-Site/app/src/helpers.py	/^def find_near_time_row(df, time, time_col = 'Timestamp'):$/;"	f
+find_near_time_row	Test-Site/app/src/progress_bar.py	/^from src.helpers import ct2ctts, find_near_time_row, segment$/;"	i
+fixed_rows	Test-Site/app/apps_list/dataset_model_list.py	/^                        fixed_rows={ 'headers': True, 'data': 0 },$/;"	v
+fixed_rows	Test-Site/app/apps_list/model_ranking.py	/^                        fixed_rows={ 'headers': True, 'data': 0 },$/;"	v
+flask	Test-Site/app/apps_list/dataset_model_list.py	/^import flask$/;"	i
+flask	Test-Site/app/apps_list/model_ranking.py	/^import flask$/;"	i
+flask	Test-Site/app/apps_list/model_test.py	/^import flask$/;"	i
+format	Test-Site/app/src/imports.py	/^                    format='%(asctime)s %(name)s %(levelname)-8s %(message)s',$/;"	v
+generate_account_sas	Test-Site/app/src/connectors/storage.py	/^from azure.storage.blob import BlobServiceClient, generate_account_sas, ResourceTypes, AccountSasPermissions, BlobClient$/;"	i
+get_blob_url	Test-Site/app/src/connectors/storage.py	/^def get_blob_url(client, container_name, blob_name):$/;"	f
+get_database	Test-Site/app/src/connectors/cosmos.py	/^def get_database(connection_string: str, database: str) -> MongoClient:$/;"	f
+get_progress_bar	Test-Site/app/apps_list/model_test.py	/^from src.progress_bar import get_progress_bar$/;"	i
+get_progress_bar	Test-Site/app/src/progress_bar.py	/^def get_progress_bar(df_pred, ctts, df_label_map):$/;"	f
+get_table	Test-Site/app/src/connectors/cosmos.py	/^def get_table(db_name, db_table):$/;"	f
+github	Test-Site/app/apps_list/model_test.py	/^import dash_player as player # https:\/\/github.com\/plotly\/dash-player$/;"	i
+go	Test-Site/app/apps_list/dataset_model_list.py	/^from plotly import graph_objs as go$/;"	i
+go	Test-Site/app/apps_list/model_ranking.py	/^from plotly import graph_objs as go$/;"	i
+go	Test-Site/app/apps_list/model_test.py	/^from plotly import graph_objs as go$/;"	i
+go	Test-Site/app/src/progress_bar.py	/^from plotly import graph_objs as go$/;"	i
+height	Test-Site/app/apps_list/model_test.py	/^                        height='400px',$/;"	v
+height	Test-Site/app/apps_list/model_test.py	/^        height=50,$/;"	v
+help	Test-Site/app/app.py	/^from apps_list import home, model_test, model_ranking, dataset_model_list, help$/;"	i
+helpers	Test-Site/app/app.py	/^from src import helpers$/;"	i
+hidden_columns	Test-Site/app/apps_list/model_ranking.py	/^                        hidden_columns=['_id'],$/;"	v
+home	Test-Site/app/app.py	/^from apps_list import home, model_test, model_ranking, dataset_model_list, help$/;"	i
+home	Test-Site/app/apps_list/dataset_model_list.py	/^from apps_list import home$/;"	i
+home	Test-Site/app/apps_list/model_ranking.py	/^from apps_list import home$/;"	i
+html	Test-Site/app/app.py	/^import dash_html_components as html$/;"	i
+html	Test-Site/app/apps_list/dataset_model_list.py	/^import dash_html_components as html$/;"	i
+html	Test-Site/app/apps_list/help.py	/^import dash_html_components as html$/;"	i
+html	Test-Site/app/apps_list/home.py	/^import dash_html_components as html$/;"	i
+html	Test-Site/app/apps_list/model_ranking.py	/^import dash_html_components as html$/;"	i
+html	Test-Site/app/apps_list/model_test.py	/^import dash_html_components as html$/;"	i
+html	Test-Site/app/src/utils/navbar.py	/^import dash_html_components as html$/;"	i
+https	Test-Site/app/apps_list/model_test.py	/^import dash_player as player # https:\/\/github.com\/plotly\/dash-player$/;"	i
+id	Test-Site/app/apps_list/dataset_model_list.py	/^                        id='dataset_table',$/;"	v
+id	Test-Site/app/apps_list/dataset_model_list.py	/^                        id='modal-body',$/;"	v
+id	Test-Site/app/apps_list/dataset_model_list.py	/^                        id='model_table',$/;"	v
+id	Test-Site/app/apps_list/dataset_model_list.py	/^            id="modal-centered",$/;"	v
+id	Test-Site/app/apps_list/dataset_model_list.py	/^        id='test-button',$/;"	v
+id	Test-Site/app/apps_list/model_ranking.py	/^                        id='model_table',$/;"	v
+id	Test-Site/app/apps_list/model_test.py	/^                        id='video-player',$/;"	v
+id	Test-Site/app/apps_list/model_test.py	/^                    id='slider-intervalCurrentTime',$/;"	v
+id	Test-Site/app/apps_list/model_test.py	/^                id="dataset-info",$/;"	v
+id	Test-Site/app/apps_list/model_test.py	/^                id="model-info",$/;"	v
+id	Test-Site/app/apps_list/model_test.py	/^                id="perform-info",$/;"	v
+id	Test-Site/app/apps_list/model_test.py	/^                id="predict-score",$/;"	v
+id	Test-Site/app/apps_list/model_test.py	/^            id='interval-progress-bar',$/;"	v
+id	Test-Site/app/apps_list/model_test.py	/^    id='card-deck'$/;"	v
+init_	Test-Site/app/DATA.py	/^def init_():$/;"	f
+insert	Test-Site/app/src/connectors/cosmos.py	/^def insert(db_col, data_dict):$/;"	f
+interval	Test-Site/app/apps_list/model_test.py	/^            interval=4500, # in milliseconds$/;"	v
+json	Test-Site/app/apps_list/model_test.py	/^import json$/;"	i
+l	Test-Site/app/apps_list/model_test.py	/^            l=20,$/;"	v
+layout	Test-Site/app/apps_list/dataset_model_list.py	/^layout = html.Div([$/;"	v
+layout	Test-Site/app/apps_list/help.py	/^layout = html.Div([$/;"	v
+layout	Test-Site/app/apps_list/home.py	/^layout = html.Div($/;"	v
+layout	Test-Site/app/apps_list/model_ranking.py	/^layout = html.Div([$/;"	v
+layout	Test-Site/app/apps_list/model_test.py	/^layout = html.Div([$/;"	v
+layout	Test-Site/app/src/utils/navbar.py	/^layout = dbc.Navbar($/;"	v
+list_group	Test-Site/app/apps_list/dataset_model_list.py	/^list_group = html.Div($/;"	v
+logging	Test-Site/app/apps_list/dataset_model_list.py	/^import logging$/;"	i
+logging	Test-Site/app/apps_list/model_ranking.py	/^import logging$/;"	i
+logging	Test-Site/app/apps_list/model_test.py	/^import logging$/;"	i
+logging	Test-Site/app/src/imports.py	/^import logging$/;"	i
+make_subplots	Test-Site/app/apps_list/model_test.py	/^from plotly.subplots import make_subplots$/;"	i
+margin	Test-Site/app/apps_list/model_test.py	/^        margin=go.layout.Margin($/;"	v
+marks	Test-Site/app/apps_list/model_test.py	/^                    marks={i: str(i) for i in [200, 500, 750, 1000, 2000]},$/;"	v
+max	Test-Site/app/apps_list/model_test.py	/^                    max=20000,$/;"	v
+min	Test-Site/app/apps_list/model_test.py	/^                    min=200,$/;"	v
+modal_notification	Test-Site/app/apps_list/dataset_model_list.py	/^def modal_notification(is_open, ds_row, mo_row):$/;"	f
+model_card	Test-Site/app/apps_list/model_test.py	/^model_card = [$/;"	v
+model_df	Test-Site/app/apps_list/dataset_model_list.py	/^model_df = cosmos.get_table(DATA.DB, 'model_table')$/;"	v
+model_df	Test-Site/app/apps_list/dataset_model_list.py	/^model_df = model_df.sort_values('_id')$/;"	v
+model_df	Test-Site/app/apps_list/model_ranking.py	/^model_df = cosmos.get_table(DATA.DB, 'model_table')$/;"	v
+model_ranking	Test-Site/app/app.py	/^from apps_list import home, model_test, model_ranking, dataset_model_list, help$/;"	i
+model_test	Test-Site/app/app.py	/^from apps_list import home, model_test, model_ranking, dataset_model_list, help$/;"	i
+n_intervals	Test-Site/app/apps_list/model_test.py	/^            n_intervals=0$/;"	v
+navbar	Test-Site/app/app.py	/^from src.utils import navbar$/;"	i
+no_gutters	Test-Site/app/src/utils/navbar.py	/^                no_gutters=True,$/;"	v
+np	Test-Site/app/DATA.py	/^import numpy as np$/;"	i
+np	Test-Site/app/src/helpers.py	/^import numpy as np$/;"	i
+os	Test-Site/app/DATA.py	/^import os$/;"	i
+os	Test-Site/app/apps_list/dataset_model_list.py	/^import os$/;"	i
+os	Test-Site/app/apps_list/model_ranking.py	/^import os$/;"	i
+os	Test-Site/app/apps_list/model_test.py	/^import os$/;"	i
+os	Test-Site/app/src/connectors/storage.py	/^import os, uuid, sys$/;"	i
+others	Test-Site/app/apps_list/model_test.py	/^others = [$/;"	v
+output_text	Test-Site/app/apps_list/dataset_model_list.py	/^def output_text(n_clicks, ds_row, mo_row):$/;"	f
+pad	Test-Site/app/apps_list/model_test.py	/^            pad=0$/;"	v
+pd	Test-Site/app/DATA.py	/^import pandas as pd$/;"	i
+pd	Test-Site/app/apps_list/dataset_model_list.py	/^import pandas as pd$/;"	i
+pd	Test-Site/app/apps_list/model_ranking.py	/^import pandas as pd$/;"	i
+pd	Test-Site/app/apps_list/model_test.py	/^import pandas as pd$/;"	i
+pd	Test-Site/app/src/connectors/cosmos.py	/^import pandas as pd$/;"	i
+pd	Test-Site/app/src/connectors/storage.py	/^import pandas as pd$/;"	i
+pd	Test-Site/app/src/helpers.py	/^import pandas as pd$/;"	i
+pd	Test-Site/app/src/imports.py	/^import pandas as pd$/;"	i
+performance_card	Test-Site/app/apps_list/model_test.py	/^performance_card = [$/;"	v
+pills	Test-Site/app/src/utils/navbar.py	/^            pills=True,$/;"	v
+player	Test-Site/app/apps_list/model_test.py	/^import dash_player as player # https:\/\/github.com\/plotly\/dash-player$/;"	i
+playing	Test-Site/app/apps_list/model_test.py	/^                        playing=True),$/;"	v
+plotly	Test-Site/app/apps_list/model_test.py	/^import dash_player as player # https:\/\/github.com\/plotly\/dash-player$/;"	i
+predict_card	Test-Site/app/apps_list/model_test.py	/^predict_card = [$/;"	v
+prepare_data	Test-Site/app/apps_list/model_test.py	/^def prepare_data(data_json):$/;"	f
+progress_bar	Test-Site/app/apps_list/model_test.py	/^def progress_bar(n, currentTime, data_json, pred_json):$/;"	f
+query	Test-Site/app/src/connectors/cosmos.py	/^def query(db_col, query):$/;"	f
+r	Test-Site/app/apps_list/model_test.py	/^            r=20,$/;"	v
+range	Test-Site/app/apps_list/model_test.py	/^            range=[0,1000], # TODO : fix the hard code 683 value$/;"	v
+range	Test-Site/app/apps_list/model_test.py	/^            range=[0.6,1.4],$/;"	v
+ranking_col	Test-Site/app/apps_list/model_ranking.py	/^ranking_col = html.Div([dash_table.DataTable($/;"	v
+recall_queue	Test-Site/app/apps_list/dataset_model_list.py	/^recall_queue = []$/;"	v
+result_1	Test-Site/app/src/connectors/cosmos.py	/^result_1 ={$/;"	v
+result_table	Test-Site/app/src/connectors/cosmos.py	/^result_table = DB['result_table']$/;"	v
+row_selectable	Test-Site/app/apps_list/dataset_model_list.py	/^                        row_selectable="single",$/;"	v
+save_df_prediction	Test-Site/app/apps_list/dataset_model_list.py	/^def save_df_prediction(data_json):$/;"	f
+save_history	Test-Site/app/apps_list/dataset_model_list.py	/^def save_history(n_clicks, ds_row, mo_row):$/;"	f
+segment	Test-Site/app/apps_list/model_test.py	/^from src.helpers import ct2ctts, find_near_time_row, segment$/;"	i
+segment	Test-Site/app/src/helpers.py	/^def segment(df_pred):$/;"	f
+segment	Test-Site/app/src/progress_bar.py	/^from src.helpers import ct2ctts, find_near_time_row, segment$/;"	i
+selected_rows	Test-Site/app/apps_list/dataset_model_list.py	/^                        selected_rows=[],$/;"	v
+selected_rows	Test-Site/app/apps_list/model_ranking.py	/^                        selected_rows=[],$/;"	v
+server	Test-Site/app/app.py	/^from appnha import app, server$/;"	i
+server	Test-Site/app/appnha.py	/^server = app.server$/;"	v
+showgrid	Test-Site/app/apps_list/model_test.py	/^            showgrid=False,$/;"	v
+showticklabels	Test-Site/app/apps_list/model_test.py	/^            showticklabels = False,$/;"	v
+signal_data	Test-Site/app/apps_list/model_test.py	/^signal_data = [          $/;"	v
+single_graph_layout	Test-Site/app/apps_list/model_test.py	/^single_graph_layout = go.Layout($/;"	v
+sort_action	Test-Site/app/apps_list/model_ranking.py	/^                        sort_action='native',$/;"	v
+start_video	Test-Site/app/apps_list/model_test.py	/^def start_video(n):$/;"	f
+step	Test-Site/app/apps_list/model_test.py	/^                    step=None,$/;"	v
+storage	Test-Site/app/apps_list/dataset_model_list.py	/^from src.connectors import cosmos, storage$/;"	i
+storage	Test-Site/app/apps_list/model_test.py	/^from src.connectors import cosmos, storage$/;"	i
+style	Test-Site/app/apps_list/help.py	/^                style = {'padding' : '50px' , $/;"	v
+style	Test-Site/app/apps_list/model_test.py	/^                style={'font-size': '15px'},$/;"	v
+style_as_list_view	Test-Site/app/apps_list/dataset_model_list.py	/^                        style_as_list_view=True,$/;"	v
+style_cell	Test-Site/app/apps_list/dataset_model_list.py	/^                        style_cell={'width': '150px', 'textAlign': 'center', 'padding': '5px'},$/;"	v
+style_cell	Test-Site/app/apps_list/model_ranking.py	/^                        style_cell={'width': '150px', 'textAlign': 'center', 'padding': '5px'},$/;"	v
+style_cell_conditional	Test-Site/app/apps_list/dataset_model_list.py	/^                        style_cell_conditional=[$/;"	v
+style_cell_conditional	Test-Site/app/apps_list/model_ranking.py	/^                        style_cell_conditional=[$/;"	v
+style_data_conditional	Test-Site/app/apps_list/dataset_model_list.py	/^                        style_data_conditional=[$/;"	v
+style_data_conditional	Test-Site/app/apps_list/model_ranking.py	/^                        style_data_conditional=[$/;"	v
+style_header	Test-Site/app/apps_list/dataset_model_list.py	/^                        style_header={$/;"	v
+style_header	Test-Site/app/apps_list/model_ranking.py	/^                        style_header={$/;"	v
+subprocess	Test-Site/app/DATA.py	/^import subprocess$/;"	i
+sys	Test-Site/app/src/connectors/storage.py	/^import os, uuid, sys$/;"	i
+t	Test-Site/app/apps_list/model_test.py	/^            t=0,$/;"	v
+tables_col	Test-Site/app/apps_list/model_ranking.py	/^tables_col = html.Div([$/;"	v
+tables_row	Test-Site/app/apps_list/dataset_model_list.py	/^tables_row = html.Div([$/;"	v
+test_button	Test-Site/app/apps_list/dataset_model_list.py	/^test_button = dbc.Button($/;"	v
+test_with_link	Test-Site/app/apps_list/dataset_model_list.py	/^test_with_link = html.Div([ $/;"	v
+time	Test-Site/app/DATA.py	/^from time import time$/;"	i
+time	Test-Site/app/apps_list/help.py	/^import time$/;"	i
+time	Test-Site/app/apps_list/home.py	/^import time$/;"	i
+time	Test-Site/app/src/progress_bar.py	/^from time import time$/;"	i
+timedelta	Test-Site/app/DATA.py	/^from datetime import datetime, timedelta$/;"	i
+timedelta	Test-Site/app/src/connectors/storage.py	/^from datetime import datetime, timedelta$/;"	i
+timedelta	Test-Site/app/src/helpers.py	/^from datetime import datetime, timedelta$/;"	i
+toggle_modal	Test-Site/app/apps_list/dataset_model_list.py	/^def toggle_modal(n1, n2, is_open):$/;"	f
+toggle_test_button	Test-Site/app/apps_list/dataset_model_list.py	/^def toggle_test_button(status):$/;"	f
+update_intervalCurrentTime	Test-Site/app/apps_list/model_test.py	/^def update_intervalCurrentTime(value):$/;"	f
+update_output	Test-Site/app/apps_list/model_test.py	/^def update_output(n_clicks):$/;"	f
+update_styles	Test-Site/app/apps_list/dataset_model_list.py	/^def update_styles(selected_rows):$/;"	f
+updatemode	Test-Site/app/apps_list/model_test.py	/^                    updatemode='drag',$/;"	v
+url	Test-Site/app/apps_list/model_test.py	/^                        url='',$/;"	v
+uuid	Test-Site/app/src/connectors/storage.py	/^import os, uuid, sys$/;"	i
+v4_subplots	Test-Site/app/apps_list/dataset_model_list.py	/^from _plotly_future_ import v4_subplots$/;"	i
+v4_subplots	Test-Site/app/apps_list/model_ranking.py	/^from _plotly_future_ import v4_subplots$/;"	i
+v4_subplots	Test-Site/app/apps_list/model_test.py	/^from _plotly_future_ import v4_subplots$/;"	i
+value	Test-Site/app/apps_list/model_test.py	/^                    value=5000)$/;"	v
+video_player	Test-Site/app/apps_list/model_test.py	/^video_player = [html.Div([$/;"	v
+width	Test-Site/app/apps_list/model_test.py	/^                        width='100%',$/;"	v
+xaxis	Test-Site/app/apps_list/model_test.py	/^        xaxis = go.layout.XAxis($/;"	v
+yaxis	Test-Site/app/apps_list/model_test.py	/^        yaxis = go.layout.YAxis($/;"	v
