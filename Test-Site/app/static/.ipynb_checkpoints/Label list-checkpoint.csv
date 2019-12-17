@@ -1,0 +1,137 @@
+﻿Ưu tiên,"STT
+Video sample","Hành động lớn
+(Main activities)",Mã nhãn lớn,Mô tả hành động,STT Video sample,Mã nhãn con,Hành động con,Mô tả hành động,Video mẫu
+*,1,Thu nhặt đồ bẩn,TN,"Bao gồm các hành động: Thu nhặt rác trong phòng, thu nhặt đồ vải bẩn (áo, chăn ga gối bẩn, khăn bẩn) và Mang đồ bẩn ra xe trolley/xe kéo
+Bắt đầu khi nhân viên cúi xuống lấy rác/đồ bẩn
+Kết thúc khi nhân viên mang đồ ra xe trolley/xe kéo để vứt đồ
+",1.1,TN1,Thu đồ bẩn,"Nhặt rác bẩn vào thùng rác hoặc túi rác. 
+Nhặt giày dép bẩn
+Nhặt khăn, áo bẩn, các đồ vải bẩn.
+",https://vingroupjsc-my.sharepoint.com/:f:/g/personal/mainq4_vingroup_net/EsJIf6vT0_5HgWe0ZRzAjKsB2dD_uvz_NPlPBXahqishPg?e=950elh
+,,,,,1.2,TN2,Mang đồ ra xe,"Mang đồ vải bẩn (áo/khăn/ga gối) ra xe kéo
+Mang rác ra xe và đổ rác",
+*,4,Dọn giường,DG,"Bao gồm chuỗi hành động: Lột vỏ chăn; Lột vỏ gối; Lột ga giường và thu vỏ chăn ga gối bẩn; Lấy và tách vỏ gối chăn ga; Lồng vỏ gối; Trải ga; Lồng vỏ chăn; Trải chăn; Xếp gối; Là phẳng mặt giường; Trải tấm phủi trang trí
+Bắt đầu khi nhân viên bắt đầu hành động dọn giường (chạm tay vào chăn ga gối)
+Kết thúc khi nhân viên kết thúc toàn bộ hành động dọn giường và chuyển sang hành động khác
+",4.1,DG1,Lột vỏ chăn,,
+,,,,,4.2,DG2,Lột vỏ gối,,
+,,,,,4.3,DG3,Lột ga giường + Thu vỏ chăn ga gối bẩn,,
+,,,,,4.4,DG4,"Lấy và Tách vỏ gối, chăn ga",,
+,,,,,4.5,DG5,Lồng vỏ gối,,
+,,,,,4.6,DG6,Trải ga giường+nhét ga dưới đệm,,
+,,,,,4.7,DG7,Lồng vỏ chăn,,
+,,,,,4.8,DG8,Trải chăn+nhét chăn dưới đệm,,
+,,,,,4.9,DG9,Xếp gối lên giường,Đặt gối to và gối bé vào vị trí đầu giường. Căn chỉnh gối.,
+,,,,,4.10,DG10,Là phẳng bề mặt giường,"Dùng tay làm phẳng lại bề mặt chăn, giường",
+,,,,,4.11,DG11,Trải tấm phủ trang trí giường,,
+*,5,Lau chùi ,LC,"Bao gồm tất cả các hành động lau chùi: cửa, tủ, bàn, đồ nội thất (tivi, đèn),... Các hành động đi lại và điều chỉnh đồ đạc (bàn, ghế, rèm,..), các hành động sắp xếp lại đồ vật trên mặt bàn khi lau (bút, tài liệu, hộp giấy,...)
+Bắt đầu khi nhân viên bắt đầu dùng khau lau chùi đồ vật.
+Kết thúc khi nhân viên dừng hành động lau đồ vật cuối cùng và chuyển sang một nhãn hành động khác.
+",5.1,LC1,Lau cửa ra vào,Lau các mặt của cửa ra vào,
+,,,,,5.2,LC2,Lau cửa sổ,Lau cửa sổ kính,
+,,,,,5.3,LC3,Lau tủ quần áo,"Lau các mặt của tủ, lau ngăn kéo tủ, nhấc đồ vật trên để lau tủ",
+,,,,,5.4,LC4,Lau bàn,"Lau bàn làm việc, bàn uống nước, bàn ngoài ban công",
+,,,,,5.5,LC5,Lau tủ tivi,"Lau mặt bàn, lau 2 bên tủ, lau cánh cửa tủ, lau các ngăn",
+,,,,,5.6,LC6,Lau tủ lạnh,,
+,,,,,5.7,LC7,Lau tủ đầu giường,"Lau mặt bàn, lau 2 bên tủ, lau các ngăn kéo",
+,,,,,5.8,LC8,Lau gương bàn làm việc,,
+,,,,,5.9,LC9,Lau nội thất ,"Lau tivi, đèn, thành giường, cửa sổ tròn, và các vật dụng khác trên bàn",
+,,,,,5.10,LC10,Sắp xếp đồ đạc,"Sắp xếp và bài trí các đồ vật trên bàn, trong tủ, trong quá trình lau: 
+- túi giặt, phiếu đánh gái, túi giấy. 
+- đồ trên mặt bàn (hộp giấy, bút, điều khiển tv, giấy tờ....); 
+- giày dép, cân,...;",
+,,,,,5.11,LC11,Lau lan can,,
+,,,,,5.12,LC12,Điều khiển rèm,Mở rèm ra/Đóng rèm lại,
+*,6,"Lấy, xếp, fill đồ phòng ngủ",FPN,"Bao gồm hành động lấy đồ từ xe trolley (áo, dép, đồ uống, giấy,...), mang đồ vào phòng và xếp đồ vào các vị trí. Sắp xếp lại áo ngủ, xếp cốc chén vào tủ. 
+Bắt đầu khi nhân viên bắt đầu nhặt đồ từ xe trolley
+Kết thúc khi nhân viên đặt đồ xong vào tủ và chuyển sang làm 1 nhãn hành động khác
+",6.1,FPN1,Lấy đồ từ xe trolley,"Lấy các vật dụng từ xe trolley và mang vào phòng:  nước ngọt, đồ phòng tắm, giày dép, áo và mang vào phòng",
+,,,,,6.2,FPN2,Sắp xếp áo ngủ,"Treo áo ngủ lên móc, buộc dây áo",
+,,,,,6.3,FPN3,Sắp xếp cốc chén vào tủ,"Đặt cốc chén, dao dĩa sạch vào tủ",
+,,,,,6.4,FPN4,Fill đồ vào tủ,"Xếp đồ uống vào tủ lạnh; thay đồ dùng trong phòng (giấy ăn, giày dép,...)",
+*,7,Hút bụi,HB,"Bao gồm việc chuẩn bị dụng cụ và hút bụi. Bao gồm cả việc xách máy hút bụi, kéo dây, cắm dây, và các hành động nhỏ chen ngang trong quá trình hút bụi (kéo rèm, kéo cửa,...)
+Bắt đầu hành động bằng việc chạm tay vào máy hút bụi.
+Kết thúc hành động bằng việc rời tay khỏi máy hút bụi (khi nhân viên cất máy hút bụi sau khi hút), và chuyển sang làm nhãn hành động khác
+",7.1,HB1,"Đi lại, mang vác máy hút bụi",Mang máy hút bụi vào phòng để chuẩn bị hút bụi. Vác máy hút bụi trên hành lang,
+,,,,,7.2,HB2,Chuẩn bị máy hút bụi,"Kéo máy hút bụi, cắm điện máy hút bụi
+cuốn dây máy hút bụi 
+cất máy hút bụi sau khi hút xong",
+,,,,,7.3,HB3,Hút bụi,Hút bụi ngoài hành lang và trong phòng,
+*,8,Lau nhà,LN,"Bao gồm việc lấy chổi lau, mang chổi vào phòng, lau nhà, và cất chổi.
+Bắt đầu bằng việc tay chạm vào chổi
+Kết thúc bằng việc tay rời khỏi chổi lau nhà sau khi cất chổi, và chuyển sang làm nhãn hành động khác
+",8.1,LN1,"Đi lại, chuẩn bị chổi lau","Đi ra ngoài hành lang lấy chổi lau nhà và mang vào phòng
+Cất chổi sau khi lau xong",
+,,,,,8.2,LN2,Lau nhà,Lau sàn bằng chổi lau nhà,
+*,9,Cọ rửa nhà vệ sinh,CVS,"Bao gồm chuỗi hành động: xịt nước, lau bồn rửa, tủ, gương, bồn tắm, tường, tường kính, lau nhà, lau các vật dụng trong nhà tắm như bồn cầu, vòi sen,...
+Bắt đầu khi nhân viên bắt đầu quá trình lau dọn
+Kết thúc khi nhân viên hoàn thành quá trình lau dọn (lau nhà)
+",9.1,CVS1,Xịt nước,Xịt nước lên các bề mặt,
+,,,,,9.2,CVS2,Lau bồn rửa mặt,"Lau bề mặt bồn rửa mặt, lau tủ bên dưới",
+,,,,,9.3,CVS3,"Rửa cốc, chén, lót cốc,...","Rửa cốc, chén, lót cốc,...",
+,,,,,9.4,CVS4,"Lau cốc, chén, lót cốc,...","Lau cốc, chén, lót cốc,...",
+,,,,,9.5,CVS5,Lau bồn tắm,Lau bề mặt bồn tắm,
+,,,,,9.6,CVS6,Lau tấm kính nhà tắm,"Lau tấm kính vách ngăn của nhà tắm và tường (cả với xà phòng, với nước và lau khô)",
+,,,,,9.7,CVS7,Lau vật dụng ,"Lau các vật dụng trong nhà tắm (vòi sen, hộp giấy, bồn cầu,...)",
+,,,,,9.8,CVS8,Lau sàn nhà tắm,,
+,,,,,9.9,CVS9,Lau gương,,
+,10,,FVS,"Lấy khăn, đồ vệ sinh cá nhân, sữa tắm, dầu gội,... từ xe trolley và xếp vào các vị trí trong phòng vệ sinh, xếp và treo khăn
+Bắt đầu khi nhân viên nhặt đồ từ xe trolley
+Kết thúc khi nhân viên hoàn tất việc đặt đồ vào nhà vệ sinh và chuyển sang nhãn hành động khác
+",10.1,FVS1,Lấy đồ từ xe trolley,"Lấy các vật dụng từ xe trolley và mang vào phòng:  dầu gội, sữa tắm, đồ cá nhân, khăn,...",
+*,,"Lấy, xếp, fill đồ phòng vệ sinh",,,10.2,FVS2,Fill và xếp đồ vệ sinh,"Xếp các đồ dùng trong phòng vệ sinh: dầu gội sữa tắm, bàn chải, khăn tay,...(các đồ trên bàn rửa mặt). Sắp xếp, bài trí đồ đạc (hộp giấy, thùng rác ...)",
+,,,,,10.3,FVS3,Fill khăn ,"Xếp khăn tắm, khăn mặt trong nhà vệ sinh",
+*,12,Đẩy xe,DX,"Bao gồm các hành động: đẩy xe trolley, kéo xe kéo dọc hành lang, đẩy cửa và di chuyển trong quá trình đẩy xe
+Bắt đầu khi nhân viên chạm vào xe và di chuyển
+Kết thúc khi nhân viên dừng và rời khỏi xe để chuyển sang hành động khác
+",12.1,DX1,Đẩy xe trolley,"Mang, kéo máy hút bụi giữa các phòng",
+,,,,,12.2,DX2,Kéo xe ,Kéo xe chưa đồ di chuyển trên hành lang,
+,,,,,12.3,DX3,Mở cửa hành lang ,Mở các cửa ngăn cách giữa các hành lang,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

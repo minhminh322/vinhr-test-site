@@ -1,0 +1,11 @@
+,Label_name,Code,Color,Active
+0,Thu nhặt đồ bẩn,TN,#7f8fa6,False
+1,Dọn giường,DG,#e84118,True
+2,Lau chùi ,LC,#f67f10,True
+3,"Xếp đồ phòng ngủ",FPN,#7f8fa6,False
+4,Hút bụi,HB,#4cd137,True
+5,Lau nhà,LN,#00a8ff,True
+6,Cọ rửa nhà vệ sinh,CVS,#7f8fa6,False
+7,Đẩy xe,DX,#7f8fa6,False
+8,Khác,OT,#2c3e50,True
+9,Đứng Yên,OT,#7f8fa6,False

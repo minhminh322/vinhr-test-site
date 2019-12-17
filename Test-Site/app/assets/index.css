@@ -1,0 +1,140 @@
+
+#video-wrapper{
+    margin : 0 77px;
+    height:400px;
+}
+*{
+    color:black;
+}
+
+#predict-score{
+    text-align: center;
+}
+
+.nav-bar{
+    /* width:75%; */
+    height: 60px;
+}
+/* 
+#card-deck{
+    height: 60px;
+} */
+.each-card{
+    height: 300px;
+}
+
+h3{
+    text-align:center;
+    margin-bottom:15px;
+    color:#e84118;
+}
+h5 {
+    text-align:center;
+}
+
+.background{
+    background-color:#273746;
+}
+.username {
+    color:#e84118;
+}
+.row {
+    display:flex;
+    margin: 20px 20px;
+}
+
+.model-result-row{
+    widows: 90%;
+    margin-right: 2%;
+}
+
+.row2{
+    display:flex;
+    margin: 20px 20px;
+}
+/* .col1{
+    width:40%;
+}
+.col2{
+    width:58%;
+    margin-left : 2%;
+} */
+.performance-card{
+    width:70%;
+}
+.signal-window{
+    width:20%;
+}
+.row22{
+    width:45%;
+}
+.tables-row {
+    display:flex;
+    /* margin: 20px 20px; */
+}
+
+.dataset-row{
+    width:45%;
+    margin-right: 2%
+}
+
+.model-row{
+    width:45%;
+    /* margin-left: 5% */
+}
+
+.header-card{
+    text-align: center;
+}
+
+.title-box{
+    padding : 20px 10px;
+    text-align:center;
+    background-image : -webkit-gradient(radial, 50% 50%, 0, 50% 50%,800, from(#324aff), to(#000000))
+}
+.title-box h3 {
+    color : white;
+}
+
+.title-box h1 {
+    color : white;
+}
+
+
+
+#prediction-window{
+    border : 1px solid black;
+    margin-bottom:20px;
+}
+#prediction-window h1{
+    font-size:30px;
+}
+
+#trade-mark{
+    color:rgb(69, 170, 242);
+    text-align:center;
+}
+#progress-bar{
+}
+
+
+
+/* #signal-window{
+    border: 8px solid #196314;
+    padding :10px;
+    padding-bottom : 25px;
+} */
+/* #col2 { 
+    border: 8px solid #196314;
+    padding :10px;
+} */
+#label-report{
+    border: 8px solid #f9c312;
+    padding :10px;
+}
+#col21 {
+    border: 8px solid #f9c312;
+}
+#footage{
+    text-align:center;
+}
